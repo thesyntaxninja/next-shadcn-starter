@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Simple starter repo for Next.js with TypeScript, Tailwind CSS, ESLint, Prettier, and Shadcn components.
+
+## Shadcn Defaults
+Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+
+- Style: New York
+- Color: stone
+- CSS Variables: true
 
 ## Getting Started
 
